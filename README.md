@@ -1,14 +1,16 @@
-# Classifiy_tool
+# Classify_tool
 Classifiy_tool_3.0
 不足：
 1、分辨率不适应多个设备
 2、未清除上一次人工分类留下的文本
 3、目录代码未优化
 4、无搜索功能
-Classifiy_tool_4.0
+Classify_tool_4.0
 改进：
 1、边框可变，预计可适应不同分辨率
 2、清除上一次人工分类留下的文本
 3、目录代码优化完成
 不足：
 1、搜索功能未完成
+Classify_tool
+1、搜索功能完成
