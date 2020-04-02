@@ -29,3 +29,7 @@ Classify_tool_5.0
 Classify_tool_6.0
 改进：
 Python机器分类算法改进，工具中文件更新
+
+Classify_tool_7.0
+改进：
+1、保存功能发现存在问题，改进完善，可多次保存且存入表格。
